@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WorkTimeApp</string>
+    <string name="requires_Google">This app requires Google Play Services. Please install Google Play Services on your device and relaunch this app.</string>
 </resources>
